@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbarlowATI/DataWranglingWorkshop/master)
+
 # DataWranglingWorkshop
 
 Notebooks and sample data for a workshop session on data wrangling
@@ -16,8 +18,6 @@ This is a fairly straightforward task on a mostly-clean input dataset, the only 
 Given input data on broadband speeds in different regions of Camden, and a csv file containing Internet User Classification data for geographic regions throughout the country, look at what type of user has the tightest requirements on minimum broadband speed.
 
 This exercise makes extensive use of the *geopandas* package to produce choropleth maps from shape files.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbarlowATI/DataWranglingWorkshop/master)
 
 ### Credits
 
