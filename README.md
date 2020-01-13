@@ -18,3 +18,10 @@ Given input data on broadband speeds in different regions of Camden, and a csv f
 This exercise makes extensive use of the *geopandas* package to produce choropleth maps from shape files.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbarlowATI/DataWranglingWorkshop/master)
+
+### Credits
+
+ * The IMDB exercise is inspired by a blog post from the author of *clevercsv*, Gerrit van den Burg:
+https://towardsdatascience.com/handling-messy-csv-files-2ef829aa441d
+
+ * The Camden Broadband data is taken from, and the exercise based on, a session at a Data Profiling workshop in Dec 2019 by James Cheshire (UCL).
